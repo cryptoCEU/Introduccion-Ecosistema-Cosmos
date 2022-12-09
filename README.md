@@ -1,4 +1,4 @@
-<img title="a title" alt="Alt text" width="480" src="[https://bitcoinmatin.fr/wp-content/uploads/2019/10/cosmos-logo.png](https://www.google.es/url?sa=i&url=https%3A%2F%2Fv1.cosmos.network%2Fpresskit&psig=AOvVaw2iFVwqiQpfds2MpmxfMpFt&ust=1670666168564000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi1o8-i7PsCFQAAAAAdAAAAABAD)">
+<img title="a title" alt="Alt text" width="480" src="https://v1.cosmos.network/img/cosmos-wordmark.6cbfcad2.svg">
 
 INTRODUCCIÓN ECOSISTEMA COSMOS
 ======
