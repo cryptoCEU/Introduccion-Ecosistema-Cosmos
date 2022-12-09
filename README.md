@@ -26,6 +26,7 @@ Cosmos hace que las cadenas de bloques sean potentes y fáciles de desarrollar c
 ## Actividades Taller
 
 ### Crear Wallet en Kpler
+<img title="a title" alt="Alt text" width="50" src="https://www.central19.com/keplr-logo.png">
 
 * [Keplr Official Site](https://www.keplr.app/)
 * [Chrome Extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)
@@ -40,16 +41,19 @@ Cosmos hace que las cadenas de bloques sean potentes y fáciles de desarrollar c
 * Lo mismo ocurre para los testnet tokens de Stargaze
 
 ### Exploradores Testnet ATOM
+<img title="a title" alt="Alt text" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo-vertical-white.png">
 
 * [Theta Testnet](https://explorer.theta-testnet.polypore.xyz/)
 * [MintScan](https://cosmoshub-testnet.mintscan.io/cosmoshub-testnet)
 
 ### Testnet Osmosis
+<img title="a title" alt="Alt text" width="50" src="https://mma.prnewswire.com/media/1815294/Osmosis_Logo.jpg?p=facebook">
 
 * [Osmosis Testnet](https://testnet.osmosis.zone/)
 * [Exploradores Testnet Osmosis](https://testnet.mintscan.io/osmosis-testnet/)
 
 ### Testnet Stargaze
+<img title="a title" alt="Alt text" width="50" src="https://miro.medium.com/max/1400/1*PIWmEFMXvzJr2yYt7f_3CQ.png">
 
 * [Stargaze](https://testnet.publicawesome.dev/)
 * [Stargaze Testnet Launchpad](https://testnet.publicawesome.dev/launchpad)
