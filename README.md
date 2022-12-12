@@ -31,6 +31,8 @@ Cosmos hace que las cadenas de bloques sean potentes y fáciles de desarrollar c
 * [Keplr Official Site](https://www.keplr.app/)
 * [Chrome Extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)
 * Instalar extesion, crear nueva cuenta. GUARDAR LAS 12 o 24 PALABRAS.
+* [Keplr Dashboard](https://testnet.keplr.app/)
+
 
 ### Testnet Tokens
 
